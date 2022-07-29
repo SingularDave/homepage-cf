@@ -6,7 +6,7 @@ personalizations: [
 to: [{ name: "Singular Movement Support", email: "support@singularmovement.com" }],
 },
 ],
-from: { name: "Enquiry", email: "no-reply@example.com" },
+from: { name: "Enquiry", email: "no-reply@singularmovement.com" },
 respondWith: () =>
     new Response(null, {
       status: 302,
